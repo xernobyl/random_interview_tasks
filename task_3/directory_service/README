@@ -1,0 +1,6 @@
+Server for directory service.
+
+Fully asynchronous, and does not use GraphQL. Sorry.
+Use "npm start" to run. The root directory can be changed on the settings.json file. The default might be super useful.
+
+Uses a REST API with a single GET request: GET files/PATH, where path is the desired path to explore.

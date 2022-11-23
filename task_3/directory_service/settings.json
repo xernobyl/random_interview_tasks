@@ -1,0 +1,5 @@
+{
+	"port": 8000,
+	"cors_allowed_domains": "*",
+	"root_directory": "E:\\Photos"
+}

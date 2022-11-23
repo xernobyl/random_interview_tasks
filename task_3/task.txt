@@ -1,0 +1,10 @@
+Develop a Node.Js api that allows a client app to:
+
+Obtain the full directory listing of a given directory path on the local filesystem. Include the full path, file size and attribute information in the result and cater for a large directory size ( at least 100 000). You can use REST or Graphql. We are a Graphql company, but if you don’t know it yet then I would suggest you use what you know best.
+
+BONUS: Package this application into a monorepo.
+BONUS: Containerized the application.
+
+Once you have completed the project please commit the project to a GitHub repository and input the link here
+
+You can use create react app and other library to make the task more useful.

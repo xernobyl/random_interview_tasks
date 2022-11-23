@@ -1,0 +1,3 @@
+Client for directory service.
+
+Use "npm start" to run. To change the service address change src/config.json file.
